@@ -4,4 +4,4 @@
 This notebook calculates crop health using satellite data.
 ## Output
 ![NDVI Map](ndvi_map.png)
-Green = Healthy 34.2% crops | Red = Stressed areas
+
